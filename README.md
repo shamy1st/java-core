@@ -12,3 +12,5 @@
     double  |  8   | 
     char    |  2   | A, B, C, ..
     boolean |  1   | true/false
+
+* **Reference Types:**
