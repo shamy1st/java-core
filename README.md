@@ -3,4 +3,4 @@
 * ![Exceptions]()
 * ![Generics]()
 * ![Collections]()
-* ![Multi-threading](https://github.com/shamy1st/multithreading)
+* ![Multi-threading](https://github.com/shamy1st/java-multithreading)
