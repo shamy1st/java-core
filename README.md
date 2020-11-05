@@ -1,5 +1,6 @@
 # Java Core
 * ![Types](https://github.com/shamy1st/java-types)
+* ![Memory](https://github.com/shamy1st/java-memory)
 * ![Exceptions](https://github.com/shamy1st/java-exceptions)
 * ![Generics](https://github.com/shamy1st/java-generics)
 * ![Collections](https://github.com/shamy1st/java-collections)
